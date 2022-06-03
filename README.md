@@ -18,6 +18,7 @@ Functionality:
 2) Application enable to handle a group and private chat.
 3) To send a private message type user name + ">>" + your message.
 4) Application uses TCP protocols to establish the chat event.
+5) Application creates relevant log file during the chat event for auditing purposes.
 
 Execution:
 
